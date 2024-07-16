@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paul_\\source\\repos\\DAP MusicPlayer Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE1FB27-27DC-4267-89F0-49880B487C9D}|DAP MusicPlayer Server\\DAP MusicPlayer Server.csproj|c:\\users\\paul_\\source\\repos\\dap musicplayer server\\dap musicplayer server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE1FB27-27DC-4267-89F0-49880B487C9D}|DAP MusicPlayer Server\\DAP MusicPlayer Server.csproj|solutionrelative:dap musicplayer server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1254,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paul_\\source\\repos\\DAP MusicPlayer Server\\DAP MusicPlayer Server\\Program.cs",
+              "RelativeDocumentMoniker": "DAP MusicPlayer Server\\Program.cs",
+              "ToolTip": "C:\\Users\\paul_\\source\\repos\\DAP MusicPlayer Server\\DAP MusicPlayer Server\\Program.cs",
+              "RelativeToolTip": "DAP MusicPlayer Server\\Program.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAAE0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T12:52:03.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 444,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
