@@ -1,0 +1,42 @@
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\IA pr3 v2.exe
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\IA pr3 v2.deps.json
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\IA pr3 v2.runtimeconfig.json
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\IA pr3 v2.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\IA pr3 v2.pdb
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\obj\Debug\net8.0-windows\IA pr3 v2.csproj.AssemblyReference.cache
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\obj\Debug\net8.0-windows\IA_pr3_v2.Form1.resources
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\obj\Debug\net8.0-windows\IA pr3 v2.csproj.GenerateResource.cache
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\obj\Debug\net8.0-windows\IA pr3 v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\obj\Debug\net8.0-windows\IA pr3 v2.AssemblyInfoInputs.cache
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\obj\Debug\net8.0-windows\IA pr3 v2.AssemblyInfo.cs
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\obj\Debug\net8.0-windows\IA pr3 v2.csproj.CoreCompileInputs.cache
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\obj\Debug\net8.0-windows\IA pr3 v2.csproj.Up2Date
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\obj\Debug\net8.0-windows\IA pr3 v2.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\obj\Debug\net8.0-windows\refint\IA pr3 v2.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\obj\Debug\net8.0-windows\IA pr3 v2.pdb
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\obj\Debug\net8.0-windows\IA pr3 v2.genruntimeconfig.cache
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\obj\Debug\net8.0-windows\ref\IA pr3 v2.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\OxyPlot.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\paul_\source\repos\IA pr3 v2\IA pr3 v2\bin\Debug\net8.0-windows\System.IO.Packaging.dll
